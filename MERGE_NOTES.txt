@@ -1,0 +1,15 @@
+Attempt 82 — Section 5 lift-and-shift merge
+
+Master: user uploaded Attempt 76.zip (internally Attempt 81)
+Donor Section 5 and footer: Attempt_66_22.zip
+
+Changes:
+- Removed master Stay and Point of Contact cards.
+- Replaced only the master Section 5 markup and footer with donor equivalents.
+- Added donor assets/section5 and its stylesheet.
+- Kept one continuous parchment background across Sections 3–5.
+- Adjusted Section 5 waterfront sky alpha mask to reveal parchment gradually.
+- Preserved master RSVP JavaScript verbatim.
+- Retained master countdown updater, with small Section 5 completion-state handling.
+- Removed donor CSS selectors that would animate Section 1.
+- All other master assets and CSS files are untouched.
